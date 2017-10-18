@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+
+div {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+#result{
+    display: none;
+}
+#result div,
+span {
+  margin: 10px;
+  text-align: center;
+  border: 1px solid #FFF;
+}
